@@ -6,7 +6,7 @@ This repository contains the rootfs of Xubuntu 9.04 for the Wii. The same rootfs
 In the download section you will find a .img.gz file. That file will contain a .img file with two partitions: a fat32 partition and a ext3 partition. The fat32 partition will contain the Linux loader for the Homebrew Channel.
 
 Just flash this image to an SD Card (8gb or more needed!)
-# *NOT TESTED ON USB*
+# *NOT TESTED ON USB BUT SHOULD WORK*
 
 # Ubuntu Login
 The default username is "ubuntu"
