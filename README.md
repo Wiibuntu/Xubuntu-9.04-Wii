@@ -26,3 +26,5 @@ There is a 2GB swapfile that is in / that auto mounts at boot. Due to the Wii ha
 
 ## NOT TESTED ON vWii or Gamecube!
 
+# Built off
+- http://forum.wiibrew.org/read.php?29,70776
