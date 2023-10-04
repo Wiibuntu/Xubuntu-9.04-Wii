@@ -30,3 +30,4 @@ There is a 2GB swapfile that is in / that auto mounts at boot. Due to the Wii ha
 
 # Built off
 - http://forum.wiibrew.org/read.php?29,70776
+- https://gbatemp.net/threads/wii-linux-xwhiite-0-2-with-wi-fi-in-2020-tutorial.570945/
