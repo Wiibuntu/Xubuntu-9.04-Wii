@@ -9,7 +9,7 @@ Just flash this image to an SD Card (8gb or more needed!)
 
 # Ubuntu Login
 The default username is "ubuntu"
-The default password is "ubuntu"
+The default password is "Wiibuntu9"
 
 # Start X Server
 At first this xubuntu build used GDM which the Wii couldn't load, so I removed that and installed xfce4 which loads fine.
