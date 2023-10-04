@@ -11,6 +11,10 @@ Just flash this image to an SD Card (8gb or more needed!)
 The default username is "ubuntu"
 The default password is "ubuntu"
 
+# Start X Server
+At first this xubuntu build used GDM which the Wii cant load, so I removed that and installed xfce4 which loads fine.
+After you login, just type "startx" and the desktop will begin to load.
+
 # Ethernet / WiFi
 USB to Eithernet adapter works fine. To use WiFi you must boot into Ubuntu from BootMii, But that has not been tested.
 
