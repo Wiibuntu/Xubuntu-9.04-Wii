@@ -1,6 +1,8 @@
 # Xubuntu-9.04-Wii
 
-This repository contains the rootfs of Xubuntu 9.04 for the Wii. The same rootfs you will be downloading.
+![alt text](https://github.com/Wiibuntu/Xubuntu-9.04-Wii/blob/main/photos/Wiibuntu.png?raw=true)
+
+This repository contains images of Xubuntu 9.04 for the Wii. Downloads are found to your right (on desktop).
 
 # How to Install (Homebrew Needed!)
 In the download section you will find a .img.gz file. That file will contain a .img file with two partitions: a fat32 partition and a ext3 partition. The fat32 partition will contain the Linux loader for the Homebrew Channel.
