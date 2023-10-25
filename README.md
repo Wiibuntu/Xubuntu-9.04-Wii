@@ -33,6 +33,7 @@ There is a 2GB swapfile that is in / that auto mounts at boot. Due to the Wii ha
 
 ## KNOWN ISSUES
 -Some keyboard layouts dont work properly
+
 -Issues connecting to some routers.
 
 # Built off
