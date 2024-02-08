@@ -40,4 +40,4 @@ There is a 2GB swapfile that is in / that auto mounts at boot. Due to the Wii ha
 - http://forum.wiibrew.org/read.php?29,70776
 - https://gbatemp.net/threads/wii-linux-xwhiite-0-2-with-wi-fi-in-2020-tutorial.570945/
 
-- # V1.1 IS THE LAST RELEASE. THIS VERSIONS FUNCTIONS BUT HAS BEEN PUT ON HOLD TO TRY AND GET A NEWER VERSION WITH A NEWER KERNEL RUNNING. 
+# V1.1 IS THE LAST RELEASE. THIS VERSIONS FUNCTIONS BUT HAS BEEN PUT ON HOLD TO TRY AND GET A NEWER VERSION WITH A NEWER KERNEL RUNNING. 
