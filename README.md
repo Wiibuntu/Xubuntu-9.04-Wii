@@ -1,5 +1,7 @@
 # Xubuntu-9.04-Wii
 
+This version is no longer maintained by me or ubuntu devs. Please upgrade to Ubuntu 14. https://github.com/Wiibuntu/Ubuntu14-Wii
+
 ![alt text](https://github.com/Wiibuntu/Xubuntu-9.04-Wii/blob/main/photos/Wiibuntu.png?raw=true)
 
 This repository contains images of Xubuntu 9.04 for the Wii. Downloads are found to your right (on desktop).
