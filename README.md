@@ -43,3 +43,6 @@ There is a 2GB swapfile that is in / that auto mounts at boot. Due to the Wii ha
 - https://gbatemp.net/threads/wii-linux-xwhiite-0-2-with-wi-fi-in-2020-tutorial.570945/
 
 # V1.1 IS THE LAST RELEASE. THIS VERSIONS FUNCTIONS BUT HAS BEEN PUT ON HOLD TO TRY AND GET A NEWER VERSION WITH A NEWER KERNEL RUNNING. 
+
+# TRY UBUNTU 16!
+Ubuntu 16 is in its EARLY STAGES and I have decided to open those early stages up to everyone! Please give  it a try [here](https://github.com/Wiibuntu/Ubuntu-16.04-Wii)
